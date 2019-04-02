@@ -4,12 +4,25 @@ body {
 }
 h1 {
   font-family: Verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
 }
-
+h2 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
 a {
   color: aquamarine;
   font-size: 16px;
+}
+#copyright {
+  text-align: right;
 }
